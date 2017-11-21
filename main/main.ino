@@ -1,9 +1,13 @@
-void setup() {
-  // put your setup code here, to run once:
+#include "src/encoder/encoder.h"
+#include "src/motorController/motorController.h"
+using namespace std;
 
+void setup() {
+  //add initializations of system variables here
+  
 }
 
 void loop() {
-  // put your main code here, to run repeatedly:
-
+  //most of the implementation for rover will be in libraries
+  
 }
